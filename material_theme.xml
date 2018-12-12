@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="arrowsStyle" value="None" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactTables" value="true" />
@@ -10,15 +9,14 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
-    <option name="indicatorStyle" value="None" />
-    <option name="treeFontSize" value="11" />
+    <option name="customSidebarHeight" value="20" />
     <option name="indicatorThickness" value="1" />
-    <option name="leftTreeIndent" value="2" />
-    <option name="rightTreeIndent" value="2" />
+    <option name="leftTreeIndent" value="4" />
+    <option name="rightTreeIndent" value="4" />
     <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="38" />
     <option name="accentColor" value="546e7a" />
-    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-7bbabfc0:16714ee9ead:-8000" />
     <option name="version" value="3.1.0" />
   </component>
