@@ -8,10 +8,11 @@
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
+    <option name="upperCaseButtons" value="false" />
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="5aa05610:167a8ae15fc:-8000" />
